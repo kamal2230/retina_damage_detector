@@ -1,4 +1,4 @@
-# Retina Damage Detector from OCT Image
+# Retina Damage Detector from OCT Images
 
 #### Retinal optical coherence tomography (OCT) is an imaging technique used to capture high-resolution cross sections of the retinas of living patients. Approximately 30 million OCT scans are performed each year, and the analysis and interpretation of these images takes up a significant amount of time (Swanson and Fujimoto, 2017).
 
